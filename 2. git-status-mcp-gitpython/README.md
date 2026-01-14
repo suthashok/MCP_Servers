@@ -165,10 +165,9 @@ Feel free to:
 - Suggest new Git commands to support
 - Submit pull requests with improvements
 
-## License
-
-[Add your license here]
 
 ## Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
+
+This ReadMe doc is polished with help of GenAI Companions.
